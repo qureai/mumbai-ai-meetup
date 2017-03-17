@@ -14,9 +14,7 @@ However, RL is still counted upon as a practically viable technology. It is prec
 
 Shivaram will begin this talk with an overview of RL and its key algorithmic elements. Specifically, he will outline the role of representations in determining the success of RL. This will be followed by a brief survey of deep learning, and proceed to describe the architecture of the agents that have recently succeeded at ATARI and Go. The talk will be concluded with thoughts about the new beginning for ``deep reinforcement learning`` followed by a Q&A session.
 
-## Video
-
-Coming soon!
+## [Video](https://vimeo.com/204884478)
 
 ## Slides
 
