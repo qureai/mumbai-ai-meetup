@@ -13,3 +13,5 @@ Additionally, we will also have a short session by [Cuddle.ai](http://www.cuddle
 ## Slides
 
 Uploaded in the folder here.
+
+## [Video](https://vimeo.com/211440036/e588ee5c7c)
