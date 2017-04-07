@@ -31,9 +31,14 @@ This course created by Google is an advanced level course and requires the perso
 This is an applied course focussing on recent advances in analysing and generating speech and text using recurrent neural networks. We introduce the mathematical definitions of the relevant machine learning models and derive their associated optimisation algorithms. The course covers a range of applications of neural networks in NLP including analysing latent dimensions in text, transcribing speech to text, translating between languages, and answering questions. These topics are organised into three high level themes forming a progression from understanding the use of neural networks for sequential language modelling, to understanding their use as conditional language models for transduction tasks, and finally to approaches employing these techniques in combination with other mechanisms for advanced applications. Throughout the course the practical implementation of such models on CPU and GPU hardware is also discussed.
 
 
-### [CS231n Convolutional Neural Networks for Visual Recognition - Stanford University](CS231n Convolutional Neural Networks for Visual Recognition)
+### [CS231n Convolutional Neural Networks for Visual Recognition - Stanford University](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 
 One of the premier courses for Deep Learning in Images. Taken by Andrej Karpath, Fei Fei Li and Justin Johnson.
+
+
+### [Natural Language Processing with Deep Learning (Winter 2017) - Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+
+Natural language processing (NLP) deals with the key artificial intelligence technology of understanding complex human language communication. This lecture series provides a thorough introduction to the cutting-edge research in deep learning applied to NLP, an approach that has recently obtained very high performance across many different NLP tasks including question answering and machine translation.
 
 
 ## Books
