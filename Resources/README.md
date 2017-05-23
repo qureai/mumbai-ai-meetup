@@ -1,5 +1,11 @@
 # Resources
 
+## Collections
+
+### [A16Z AI Playbook](http://aiplaybook.a16z.com)
+
+A16Z one of the premier investor firms in Silicon Valley has released a complete list of references for individuals from all types of backgrounds. It is a great list of resources for beginners as well as experts.
+
 ## Courses
 
 ### [Machine Learning by Andrew Ng - Coursera](https://www.coursera.org/learn/machine-learning)
