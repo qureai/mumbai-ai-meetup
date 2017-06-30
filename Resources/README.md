@@ -61,6 +61,8 @@ The Deep Learning textbook is a resource intended to help students and practitio
 
 In Reinforcement Learning, Richard Sutton and Andrew Barto provide a clear and simple account of the key ideas and algorithms of reinforcement learning. Their discussion ranges from the history of the field's intellectual foundations to the most recent developments and applications. The only necessary mathematical background is familiarity with elementary concepts of probability.
 
+### [Foundations of Statistical NLP](https://nlp.stanford.edu/fsnlp/)
+
 
 ## Research Papers
 
