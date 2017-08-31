@@ -31,4 +31,5 @@ Uploaded in the folder
 ### Videos
 
 [Part 1 - without audio because of technical issues](https://www.pscp.tv/w/1dRKZnRrqqrKB)
+
 [Part 2](https://www.pscp.tv/qure_ai/1PlJQYkeXrdJE)
